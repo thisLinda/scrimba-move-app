@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-movie-app/static/css/main.4a5d7353.css",
+    "main.js": "/scrimba-movie-app/static/js/main.fd80c5af.js",
+    "index.html": "/scrimba-movie-app/index.html",
+    "main.4a5d7353.css.map": "/scrimba-movie-app/static/css/main.4a5d7353.css.map",
+    "main.fd80c5af.js.map": "/scrimba-movie-app/static/js/main.fd80c5af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5d7353.css",
+    "static/js/main.fd80c5af.js"
+  ]
+}
